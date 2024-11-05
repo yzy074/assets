@@ -1,1 +1,7 @@
-
+{
+  "name": "Seld Blockhead",
+  "symbol": "SB",
+  "decimals": 4,
+  "contractAddress": "0xFF530D19a3AE2907810B12afDfA4EF17a7FB7aD6",
+  "logoURI": "https://raw.githubusercontent.com/yzy074/assets/master/blockchains/ethereum/assets/0xFF530D19a3AE2907810B12afDfA4EF17a7FB7aD6/logo.png"
+}
